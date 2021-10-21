@@ -1,5 +1,3 @@
-
-
 public class Question2 {
     public static void main(String[] args) {
         int a = 133, b = 233, c = 44;
